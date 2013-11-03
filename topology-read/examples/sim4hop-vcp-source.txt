@@ -1,0 +1,16 @@
+Pgw Rotterdam312 0
+Enb1 Amsterdam79 0
+Enb2 Amsterdam105 0
+IcnCc Amsterdam79 0
+Amsterdam79 Amsterdam235 0
+Amsterdam105 Amsterdam234 0
+Amsterdam235 Amsterdam234 0
+Amsterdam235 Amsterdam236 0
+Amsterdam234 Amsterdam236 0
+Amsterdam236 Rotterdam238 0
+Rotterdam238 Rotterdam312 0
+Rotterdam312 Antwerpen258 0
+Antwerpen258 Antwerpen259 0
+Antwerpen259 Brussels262 0
+Brussels262 Brussels132 0
+Brussels132 Brussels134 0
